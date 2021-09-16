@@ -9,7 +9,7 @@
 </head>
 
 <body>
-欢迎登录系统<a href="index.jsp">返回</a>
+欢迎登录系统，傻逼<a href="index.jsp">返回</a>
 </body>
 
 </html>
